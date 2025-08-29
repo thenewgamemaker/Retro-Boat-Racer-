@@ -1,0 +1,12 @@
+{
+  "name": "boat-racer-server",
+  "version": "1.0.0",
+  "description": "Multiplayer server for Retro Boat Racer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.1.0"
+  }
+}
